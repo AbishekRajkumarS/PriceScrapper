@@ -20,6 +20,12 @@ Roll No: 18PW41
   - A Spider crawls the website.
   - Obtained data is stored as CSV file.
   - The data is then analysed.
-  - When request hits the Api, a JSON respones is returned
-  
-  
+  - When request hits the API, a JSON respones is returned.
+  - The API response consists of:
+     - The best price
+     - A graph of various items.
+
+***The modules that are used:***
+  - Scrappy
+  - Pandas
+  - Matplotlib
