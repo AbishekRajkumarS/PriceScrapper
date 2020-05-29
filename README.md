@@ -1,4 +1,4 @@
-# Price Scrapper
+# Price Scrapper API
 
 ## About me
 ```
